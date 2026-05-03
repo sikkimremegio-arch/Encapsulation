@@ -1,16 +1,16 @@
-# 🚀 Hi, I'm Kim👋
+# Hi, I'm Kim👋
 
 💻 Aspiring Developer | 🧠 Learning OOP | 🚀 Building my coding journey
 
 
 
- 🧠 About Me
+ About Me
 I’m currently learning C# programming and exploring Object-Oriented Programming (OOP).
 
 This project focuses on Encapsulation, where I learned how to protect data using:
 - private fields 
 - public properties (get/set) 
-- validation rules ✔
+
 
 
 
